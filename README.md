@@ -2,13 +2,17 @@
 
 Collection of SQL projects focused on data analysis, reporting, and business insights.
 
+## Goal
+
+Use SQL to analyze datasets, answer business questions, and support data-driven decision making.
+
 ## Skills
 
 - SQL
 - Data Analysis
-- Data Cleaning
+- Business Intelligence
 - Reporting
-- Database Management
+- Database Concepts
 
 ## Portfolio Projects
 
@@ -36,3 +40,10 @@ customer-analysis/
 business-reporting/
 
 datasets/
+
+## Future Projects
+
+- Sales Performance Dashboard
+- Customer Segmentation Analysis
+- Revenue Trend Analysis
+- Business KPI Reporting
